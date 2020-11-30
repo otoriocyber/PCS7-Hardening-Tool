@@ -1,5 +1,6 @@
 ﻿<#
 Developed by OTORIO LTD. - www.otorio.com
+Version 1.0
 Licensed under GPL V3
 #>
 
@@ -13,7 +14,7 @@ Licensed under GPL V3
         * Windows Management Instrumentation (WMI)
         * Windows registry
         * Resultant Set of Policy (RsoP)
-        * Security Policy
+        * Windows security policy
         * PCS7 WebNavigator and Information server config files
         * Running services
 

@@ -1,4 +1,5 @@
 # Siemens Simatic PCS 7 Hardening Tool
+Version 1.0
 ## Overview
 Powershell script for assessing the security configurations of Siemens - SIMATIC PCS 7 OS client, OS Server or Engineering station
 
