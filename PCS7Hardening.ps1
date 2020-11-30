@@ -13,7 +13,7 @@ Licensed under GPL V3
         * Windows Management Instrumentation (WMI)
         * Windows registry
         * Resultant Set of Policy (RsoP)
-        * Security get-
+        * Security Policy
         * PCS7 WebNavigator and Information server config files
         * Running services
 
